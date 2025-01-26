@@ -1,6 +1,6 @@
 ### Notes on Causal Inference
 
-These links contain my personal notes on studying causal inference. The notes are written in a mix of Chinese and English. The references used include the following textbooks:
+These links contain my personal notes on studying causal inference, and I’m delighted to share them with you. The notes are written in a mix of Chinese and English. The references used include the following textbooks:
 
 1. **Causal Inference for The Brave and True**  
    - **Author**: Matheus Facure Alves  
